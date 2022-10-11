@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T08:01:23.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" version="20.4.0" etag="fGYTIefVbl07MiYXoilo" type="github"><diagram id="ZdluTsKQ5CtIYbD5Ews_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-11T08:29:48.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="eRvE7b_GTe_Oh0j9orVP" version="20.4.0" type="github">
+  <diagram id="ZdluTsKQ5CtIYbD5Ews_" name="第 1 页">
+    <mxGraphModel dx="1220" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8G_feEFNQOoTcOB50a_I-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Lucida Console&quot;&gt;Data Sources&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8G_feEFNQOoTcOB50a_I-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Lucida Console&quot;&gt;Data Collection&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="246" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8G_feEFNQOoTcOB50a_I-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Lucida Console&quot;&gt;Data Stream&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="342" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8G_feEFNQOoTcOB50a_I-4" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Lucida Console&quot;&gt;Data Processing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="438" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8G_feEFNQOoTcOB50a_I-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Lucida Console&quot;&gt;Data Serving&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="534.5" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8G_feEFNQOoTcOB50a_I-7" value="CDC、LOG、DataStream" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="246" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8G_feEFNQOoTcOB50a_I-8" value="统一的数据收集层，定义各种数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="256" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8G_feEFNQOoTcOB50a_I-9" value="数据实时存储，根据数据输入速率扩缩容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="352" width="326" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8G_feEFNQOoTcOB50a_I-10" value="数据处理：准备、清理、转换、验证等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="448" width="326" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8G_feEFNQOoTcOB50a_I-11" value="数据展现：NoSql存储和查询服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="544.5" width="326" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
