@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T01:31:09.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" version="20.4.0" etag="M0DYbhc3L_LWFHi74Fed" type="github"><diagram id="XOIh8QgyaT8VWv3ASiQV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T01:55:26.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="A4a3nuuDpR2hXMwbzpAx" version="20.4.0" type="github">
+  <diagram id="XOIh8QgyaT8VWv3ASiQV" name="第 1 页">
+    <mxGraphModel dx="1037" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-14" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;AWS Cloud" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="840" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="35IrrQ6gflo6Vt6GQeLf-7" target="35IrrQ6gflo6Vt6GQeLf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-7" value="Amazon EMR&lt;br style=&quot;font-size: 15px;&quot;&gt;Parquet&lt;br style=&quot;font-size: 15px;&quot;&gt;conversion&lt;br style=&quot;font-size: 15px;&quot;&gt;using Apache&lt;br style=&quot;font-size: 15px;&quot;&gt;Spark" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.emr;fillColor=#F58534;gradientColor=none;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="920" y="241" width="80" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="35IrrQ6gflo6Vt6GQeLf-8" target="35IrrQ6gflo6Vt6GQeLf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-8" value="Amazon Kinesis&lt;br style=&quot;font-size: 15px;&quot;&gt;Data Firehose" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.kinesis_firehose;fillColor=#F58534;gradientColor=none;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="580" y="241" width="80" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="35IrrQ6gflo6Vt6GQeLf-9" target="35IrrQ6gflo6Vt6GQeLf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Amazon Kinesis&lt;br style=&quot;font-size: 15px;&quot;&gt;Data Streams&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.kinesis_streams;fillColor=#F58534;gradientColor=none;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="241" width="80" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="35IrrQ6gflo6Vt6GQeLf-10" target="35IrrQ6gflo6Vt6GQeLf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-10" value="RAW S3&lt;br style=&quot;font-size: 15px;&quot;&gt;Bucket" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket;fillColor=#E05243;gradientColor=none;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="755" y="241" width="70" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="35IrrQ6gflo6Vt6GQeLf-11" target="35IrrQ6gflo6Vt6GQeLf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-11" value="Lambda&lt;br style=&quot;font-size: 15px;&quot;&gt;function" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#5294CF;gradientColor=none;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="410" y="241" width="80" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="35IrrQ6gflo6Vt6GQeLf-12" target="35IrrQ6gflo6Vt6GQeLf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Internet&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#D2D3D3;gradientColor=none;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="253.5" width="80" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="35IrrQ6gflo6Vt6GQeLf-15" value="S3 Bucket" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket;fillColor=#E05243;gradientColor=none;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="925" y="430" width="70" height="79" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
