@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T02:02:57.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" version="20.6.0" etag="_8SQ1IJgVaR9un-fPyI1" type="github"><diagram id="GjMO-apTdKKidLkiAeM1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-02T02:52:16.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" version="20.6.0" etag="OgNoqFmLWDWlxfjWVGrM" type="github">
+  <diagram id="cJB-pesZZZyS8Z_uJIqx" name="第 1 页">
+    <mxGraphModel dx="1278" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SmLxjUmOwr0ocnpK5vvd-4" value="Serverless基础设施（计算、存储、网络、容器）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SmLxjUmOwr0ocnpK5vvd-5" value="BaaS（认证、存储、数据库、消息）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SmLxjUmOwr0ocnpK5vvd-6" value="开发工具&lt;br&gt;（CloudIDE&lt;br&gt;CI/CD&lt;br&gt;CLI）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SmLxjUmOwr0ocnpK5vvd-8" value="观测工具&lt;br&gt;（监控、告警&lt;br&gt;调用链&lt;br&gt;日志）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="650" y="290" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SmLxjUmOwr0ocnpK5vvd-9" value="触发器（Kafka、OBS、SMN）&lt;br&gt;函数编排（条件、并行、循环）&lt;br&gt;函数实例容器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SmLxjUmOwr0ocnpK5vvd-10" value="应用生态（音视频、数据处理、网联网、大数据&amp;amp;AI）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="520" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
